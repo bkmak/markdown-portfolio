@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Pizza
+    * No anchovies!
+2. Tacos
+3. Sandwiches
